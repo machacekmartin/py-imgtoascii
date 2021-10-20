@@ -1,2 +1,2 @@
 # py-imgtoascii
- Simple image -> ASCII convertor using Python
+ Simple image and video to ASCII convertor using Python
